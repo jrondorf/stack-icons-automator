@@ -1,6 +1,5 @@
 # stack-icons-automator
-Automator app for creating Stack S3 icons in the correct file size and name
-* yourhead/s3
+Automator app for creating (Stack S3 icons)[https://github.com/yourhead/s3/wiki/Icons] in the correct file size and name
 
 Input:
 - Square PNG Image with image size of >= 256px. Best use image size of 512px or 1024px
