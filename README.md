@@ -1,9 +1,5 @@
 # stack-icons-automator
-Automator app for creating Stack S3 icons yourhead/s3 in the correct file size and name
-
-(yourhead/s3/wiki/Icons)
-
-[yourhead/s3/wiki/Icons]
+Automator app for creating Stack S3 icons in the correct file size and name
 
 Input:
 
