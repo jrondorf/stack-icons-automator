@@ -1,5 +1,5 @@
-# stack-icons-automator
-Automator app for creating [Stack S3 icons](https://github.com/yourhead/s3/wiki/Icons) in the correct file size and name
+# Stack Icons Automator
+Automator app for creating [Stack S3 icons](https://github.com/yourhead/s3/wiki/Icons) in the correct file size and name.
 
 Input:
 - Square PNG Image with image size of >= 256px. Best use image size of 512px or 1024px
@@ -24,3 +24,6 @@ icon_small@2x.png (32px)
 
 Usage:
 - Drop input file on app (works nice with Dropzone 3), output images will be placed into Desktop.
+
+License:
+MIT
